@@ -9,6 +9,7 @@ def calculate_sum(a, b):
 def multiply(a, b):
     return a * b
 
+
 if __name__ == "__main__":
     hello_world()
     result = calculate_sum(5, 10)
